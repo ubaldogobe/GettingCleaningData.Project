@@ -1,6 +1,6 @@
 # GettingCleaningData.Project
 
-# 1. Unzip the source into your local drive (link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). It generate a folder called "UCI HAR Dataset" with all datasets.
+## 1. Unzip the source into your local drive (link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). It generate a folder called "UCI HAR Dataset" with all datasets.
 
 # 2. Define this new folder as working directory in RStudio (use setwd())
 
